@@ -1,1 +1,1 @@
-# JavaScript_Diaries
+# Javascript_Diaries
